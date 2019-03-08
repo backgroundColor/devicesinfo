@@ -1,0 +1,15 @@
+{
+  "name": "devicesinfo",
+  "version": "1.0.0",
+  "description": "for get devices infos",
+  "main": "devicesinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devices",
+    "infos"
+  ],
+  "author": "backGroundColor",
+  "license": "MIT"
+}
