@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backgroundColor/devicesinfo.git"
+  },
   "keywords": [
     "devices",
     "infos"
   ],
   "author": "backGroundColor",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backgroundColor/devicesinfo/issues"
+  },
+  "homepage": "https://github.com/backgroundColor/devicesinfo#readme"
 }
